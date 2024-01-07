@@ -15,7 +15,7 @@ public class printTable {
 			int count = tableNumber * i;
 			System.out.println(count);
 		}
-
+				
 	}
 
 }
