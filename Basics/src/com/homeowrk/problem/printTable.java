@@ -12,8 +12,8 @@ public class printTable {
 		int tableNumber = sc.nextInt();
 		int i;
 		for (i = 1; i <= 10; i++) {
-			int count = tableNumber * i;
-			System.out.println(count);
+//			int count = tableNumber * i;
+			System.out.println(tableNumber * i);
 		}
 				
 	}
